@@ -37,6 +37,8 @@ Coming soon.
 
 ## Gameplay / Геймплей
 
+[**Смотреть на YouTube**](https://youtu.be/7Hl0U2gRz2I)
+
 [![A Paris ball](https://img.youtube.com/vi/7Hl0U2gRz2I/maxresdefault.jpg)](https://youtu.be/7Hl0U2gRz2I)
 
 ## How to play / Как играть
