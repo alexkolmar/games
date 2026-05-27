@@ -63,8 +63,16 @@ The gameplay can take time. Before exiting, you may save the game and export you
 
 ## License
 
-This game uses the Ren'Py visual novel engine (https://www.renpy.org/).
+Copyright © 2025-2026 Alex Kolmar
+
+All rights reserved. No part of this game (including but not limited to story, characters, dialogue, code, and visual design) may be copied, modified, or redistributed without explicit permission from the author.
+
+---
+
+**Third-party assets:** Credits and licenses for music, graphics, and fonts are listed in the in-game "About" screen.
+
+**Music from Pixabay:** Used under the Pixabay License (https://pixabay.com/service/license/).
+
+**Engine:** This game uses Ren'Py (https://www.renpy.org/), released under the MIT License.
 
 Ren'Py is released under the MIT License. Portions of Ren'Py are derived from source code licensed under the GNU Lesser General Public License. A complete list of software and licenses is available at https://www.renpy.org/doc/html/license.html.
-
-All resources used (graphics, music, fonts) are credited in the "About" screen inside the game itself.
