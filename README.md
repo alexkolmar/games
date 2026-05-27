@@ -55,6 +55,8 @@ The gameplay can take time. Before exiting, you may save the game and export you
 
 [![Play online](gui/play.svg)](https://alexkolmar.github.io/games/eternalveil/eternalveil-1.5-web/index.html)
 
+**Visit game page on itch.io / Посетить страницу игры на itch.io**
+
 [![Download on itch.io](gui/download.svg)](https://alexkolmar.github.io/games/eternalveil/eternalveil-1.5-web/index.html)
 
 ## License
