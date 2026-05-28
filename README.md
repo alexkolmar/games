@@ -33,10 +33,10 @@ Will Jean-Claude eventually find his happiness? Or at least peace? It depends on
 
 ## Screenshots / Скриншоты
 
-[![screenshot 1](gui\screenshots\preview1.jpg)](gui\screenshots\screenshot1.jpg)
-[![screenshot 2](gui\screenshots\preview2.jpg)](gui\screenshots\screenshot2.jpg)
-[![screenshot 3](gui\screenshots\preview3.jpg)](/gui\screenshots\screenshot3.jpg)
-[![screenshot 4](gui\screenshots\preview4.jpg)](gui\screenshots\screenshot4.jpg)
+[![screenshot 1](gui\screenshots\preview1.jpg)](https://alexkolmar.github.io/eternalveil/gui/screenshots/screenshot1.jpg)
+[![screenshot 2](gui\screenshots\preview2.jpg)](https://alexkolmar.github.io/eternalveil/gui/screenshots/screenshot2.jpg)
+[![screenshot 3](gui\screenshots\preview3.jpg)](https://alexkolmar.github.io/eternalveil/gui/screenshots/screenshot3.jpg)
+[![screenshot 4](gui\screenshots\preview4.jpg)](https://alexkolmar.github.io/eternalveil/gui/screenshots/screenshot4.jpg)
 
 ## Gameplay / Геймплей
 
@@ -58,7 +58,7 @@ The gameplay can take time. Before exiting, you may save the game and export you
 
 **Play web version / Играть в веб-версию**
 
-[![Play online](gui/play.svg)](/main/ev-1.5/index.html)
+[![Play online](gui/play.svg)](https://alexkolmar.github.io/eternalveil/main/ev-1.5/index.html)
 
 **Visit game page on itch.io / Посетить страницу игры на itch.io**
 
